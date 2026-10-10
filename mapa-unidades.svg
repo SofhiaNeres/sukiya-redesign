@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380">
+<rect width="640" height="380" fill="#f3eadb"/>
+<g fill="#e4d8c5"><path d="M0 0h150v80H0zM175 0h135v80H175zM338 0h115v80H338zM485 0h155v80H485zM0 108h115v105H0zM145 108h165v105H145zM338 108h115v105H338zM485 108h155v105H485zM0 242h150v138H0zM175 242h135v138H175zM338 242h115v138H338zM485 242h155v138H485z"/></g>
+<path d="M525-20c-90 80-25 155-85 205s-35 112-95 215" fill="none" stroke="#b9d1cb" stroke-width="38"/>
+<g stroke="#fffaf1" fill="none" stroke-width="14"><path d="M-20 95h680M-20 228h680M163-20v420M324-20v420M468-20v420"/><path d="M-20 365L370-20" stroke-width="20"/></g>
+<g fill="#c3d0a4"><rect x="23" y="121" width="75" height="75" rx="18"/><rect x="499" y="262" width="110" height="88" rx="22"/></g>
+<path d="M262 162c0-26 21-47 47-47s47 21 47 47c0 36-47 76-47 76s-47-40-47-76z" fill="#271f1b" opacity=".1" transform="translate(3 7)"/>
+<path d="M262 154c0-26 21-47 47-47s47 21 47 47c0 36-47 76-47 76s-47-40-47-76z" fill="#c8172b" stroke="#fffaf1" stroke-width="5"/><circle cx="309" cy="152" r="16" fill="#fffaf1"/>
+<g fill="#c8172b" stroke="#fffaf1" stroke-width="3"><circle cx="174" cy="289" r="11"/><circle cx="489" cy="104" r="11"/></g>
+<rect x="27" y="24" width="175" height="39" rx="19" fill="#fffaf1"/><text x="114" y="49" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#271f1b">SEU PRÓXIMO SUKIYA</text>
+<rect x="231" y="249" width="158" height="36" rx="18" fill="#fffaf1"/><text x="310" y="272" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#271f1b">Encontre uma unidade</text>
+</svg>
